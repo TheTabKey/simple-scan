@@ -2,7 +2,7 @@ import requests
 import sys
 
 # Define your VirusTotal API key
-API_KEY = "017e91e77bb3a03cfc79b2a2ed2e131364f257f634b73a0fd3cbe1f13d14f5e6"
+API_KEY = "VT api key"
 
 # URL for the VirusTotal API endpoint to submit files
 UPLOAD_URL = 'https://www.virustotal.com/vtapi/v2/file/scan'
